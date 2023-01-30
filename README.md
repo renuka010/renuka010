@@ -5,7 +5,7 @@
 <!--- <p align="left"> <img src="https://komarev.com/ghpvc/?username=renuka010&label=Profile%20views&color=0e75b6&style=flat" alt="renuka010" /> </p> --->
 ## 🚀 About Me
 
-I am a back-end developer and competitive programmer👩‍💻. I love solving problems. I was also an experienced banker, currently open to new opportunities in Software industry.
+I am a back-end developer and competitive programmer👩‍💻. I love solving problems. I was also an experienced banker, currently open to new opportunities in Software Development.
 
 🌱 I'm currently learning javascript and Django Framework.
 
