@@ -19,7 +19,7 @@ I'm a Backend Developer, working in Java and Python. Passionate about competitiv
 
 [![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=renuka010&theme=nord_bright)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=renuka010&theme=nord_bright)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=renuka010&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=renuka010&theme=nord_bright)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 <!--- 
 🌱 I'm currently learning javascript and Django Framework. 
